@@ -40,7 +40,7 @@ public class ValidUtils {
 				return false;
 			}
 		}
-		
+
 		return false;
 	}
 	
